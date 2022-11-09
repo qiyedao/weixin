@@ -29,15 +29,9 @@
     "build": "webpack --config webpack.config.js",
     "release": "release-it"
   },
-  "contributors": [
-    {
-      "name": "Wilson",
-      "email": "gongzili456@gmail.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:weapp-socketio/weapp.socket.io.git"
+    "url": "https://github.com/qiyedao/weixin.git"
   },
   "license": "MIT"
 }
